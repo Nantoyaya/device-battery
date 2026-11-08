@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+desktop.ini
+probe/*.png
+probe/*.txt
